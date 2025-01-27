@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a student of the University of Sydney currently studying for a Bachelor's degree in Advanced Computing, majoring in Computer Science and Cybersecurity. I have a strong passion for computer security and programming with an eagerness for continuous learning and growing my skill set.
+
+I am aspiring to work either in the software development or cybersecurity industry.
